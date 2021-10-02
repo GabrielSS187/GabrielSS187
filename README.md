@@ -33,7 +33,3 @@
 >#### ***JavaScript***
 
 >#### ***React***
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSS187&layout=Demo)](https://github.com/GabrielSS187/github-readme-stats)
-
