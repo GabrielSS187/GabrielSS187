@@ -13,7 +13,7 @@
 ## Sobre mim :
 
  - #### Idade : 23 anos.
- - #### 👨🏻‍🎓 Estudando : Desenvolvimento FullStack na ***"Labenu"***
+ - #### 👨🏻‍🎓 Cursando : Desenvolvimento FullStack na ***"Labenu"***
  - #### ***Técnico de hardware de computadores e entre outros.*** 
  - #### Tecnologias que estou aprendendo :
 <div style  = "display: inline-block;"><br/>
