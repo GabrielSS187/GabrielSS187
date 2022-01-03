@@ -5,7 +5,7 @@
 [![gmail](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielSS187/GabrielSS187/)
 
 ### 🧐Apaixonado por tecnologia e sempre querendo aprender mais.
-- #### Começando na area de programação
+- #### let myText= "Evoluindo constantemente na area de programação"
 <br>
 
 ![Gabriel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSS187&show_icons=true&theme=radical)
