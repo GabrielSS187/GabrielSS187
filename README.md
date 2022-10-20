@@ -45,7 +45,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Express](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Knex.js](https://img.shields.io/badge/-knex.js-0D1117?style=for-the-badge&logo=knexjs.js&labelColor=0D1117)&nbsp;
+![Knex.js](https://img.shields.io/badge/-Knex.js-0D1117?style=for-the-badge&logo=knex.js&labelColor=0D1117)&nbsp;
 ![Framer-Motion](https://img.shields.io/badge/-FramerMotion-0D1117?style=for-the-badge&logo=framer-motion&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 ### Estudando neste momento:
