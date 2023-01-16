@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a734ce&height=180&section=header&text=Gabriel%20Silva%20%20Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
  
 <!--  Animaão -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a734ce&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Amigo+Seja+Bem+Vindo,;Ao+Meu+Perfil+No;Github!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a734ce&size=35&center=true&vCenter=true&width=1000&lines=Olá+Meu+Amigo,+Seja+Bem+Vindo,;Ao+Meu+Perfil+No;Github!+:%29)](https://git.io/typing-svg)
 
 <p align="center" >
 <img style="border-radius: 10px" src="https://raw.githubusercontent.com/thomas0114/AtosDev/main/logo.gif"/>
