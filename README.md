@@ -11,6 +11,9 @@
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=GabrielSS187&theme=gotham&hide_border=true&area=true) -->
 ![Snake animation](https://github.com/GabrielSS187/GabrielSS187/blob/output/github-contribution-grid-snake.svg)
 
+<div align="start">  
+<a href="https://www.linkedin.com/in/gabriel-silva-souza-developer" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+</div> 
  
 <!-- Outros -->
 ### Habilidades Principais:
@@ -69,10 +72,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielSS187&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 -->
-
-<div align="center">  
-<a href="https://www.linkedin.com/in/gabriel-silva-souza-developer" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
