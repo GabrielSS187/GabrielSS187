@@ -11,6 +11,8 @@
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=GabrielSS187&theme=gotham&hide_border=true&area=true) -->
 ![Snake animation](https://github.com/GabrielSS187/GabrielSS187/blob/output/github-contribution-grid-snake.svg)
 
+### Social:
+
 <div align="start">  
 <a href="https://www.linkedin.com/in/gabriel-silva-souza-developer" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
